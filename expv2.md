@@ -47,4 +47,4 @@ int main() {
     return 0;
 }
 ```
-![screenshot](525v21.jpg.)
+![screenshot](525v21.jpg)
