@@ -83,4 +83,4 @@ int main() {
     return 0;
 }
 ```
-[screenshot](5255a.jpg)
+![screenshot](5255a.jpg)
