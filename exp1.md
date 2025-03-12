@@ -49,12 +49,11 @@ GENERAL COMMANDS
   Exit from a process. If shell is the only process then logs out
 
 ```
-![screenshot](525.1.png)
-![screenshot](525.2.png)
-![screenshot](525.3.png)
-![screenshot](525.4.png)
-![screenshot](525.5.png)
-
+![screenshot](525.1.jpg)
+![screenshot](525.2.jpg)
+![screenshot](525.3.jpg)
+![screenshot](525.4.jpg)
+![screenshot](525.5.jpg)
 DIRECTORY COMMANDS
 ```c
 pwd
@@ -75,11 +74,11 @@ To move back to the parent directory
 rmdir subdir
 Removes an empty sub-directory.
 ```
-![screenshot](525.6.png)
-![screenshot](525.7.png)
-![screenshot](525.8.png)
-![screenshot](525.9.png)
-![screenshot](525.10.png)
+![screenshot](525.6.jpg)
+![screenshot](525.7.jpg)
+![screenshot](525.8.jpg)
+![screenshot](525.9.jpg)
+![screenshot](525.10.jpg)
 
 
 FILE COMMANDS
@@ -136,8 +135,8 @@ Changes permission for the specified file. (r=4, w=2, x=1)
 chmod 740 file
 sets all rights for user, read only for groups and no rights for others
 ```
-![screenshot](525.11.png)
-![screenshot](525.12.png)
-![screenshot](525.13.png)
-![screenshot](525.14.png)
-![screenshot](525.15.png)
+![screenshot](525.11.jpg)
+![screenshot](525.12.jpg)
+![screenshot](525.13.jpg)
+![screenshot](525.14.jpg)
+![screenshot](525.15.jpg)
